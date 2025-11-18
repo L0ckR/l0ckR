@@ -37,7 +37,6 @@
 <div id="stats">
   <h2> My stats <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0ckR&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0ckR&theme=midnight_purple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l0ckR&theme=midnight_purple&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0ckR&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0ckR&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l0ckR&theme=2077&utcOffset=3)
