@@ -31,12 +31,13 @@
 - 🙂 Last year I had some researcр in Text2SQL and BigData for AI-agents
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ckR&layout=compact&theme=dark)](https://github.com/l0ckR/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ckR&layout=compact&theme=radical)](https://github.com/l0ckR/github-readme-stats)  
 
 ---
 <div id="stats">
   <h2> My stats <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0ckR&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0ckR&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l0ckR&theme=2077&utcOffset=3)
