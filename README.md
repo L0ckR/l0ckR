@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working at Sber B2C
 - 🌱 Third course of Applied Mathematics and Computer Science
-- 🙂 Last year I had some researcр in Text2SQL and BigData for AI-agents
+- 🙂 Last year had some researches in Text2SQL and BigData for AI-agents
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ckR&layout=compact&theme=radical)](https://github.com/l0ckR/github-readme-stats)  
