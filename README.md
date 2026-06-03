@@ -26,7 +26,7 @@
   <h2> About me <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
 
-- 🔭 I’m currently working at Sber B2C
+- 🔭 I’m currently working at Sber CX B2C
 - 🌱 Third course of Applied Mathematics and Computer Science
 - 🙂 Last year had some researches in Text2SQL and BigData for AI-agents
 ---
