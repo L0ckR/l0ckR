@@ -31,7 +31,7 @@
 - 🙂 Last year had some researches in Text2SQL and BigData for AI-agents
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ckR&layout=compact&theme=radical)](https://github.com/l0ckR/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=l0ckR&layout=compact&theme=radical)](https://github.com/l0ckR/github-readme-stats)  
 
 ---
 <div id="stats">
